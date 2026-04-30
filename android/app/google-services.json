@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716482970634",
+    "project_id": "honeypot-app-951ef",
+    "storage_bucket": "honeypot-app-951ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716482970634:android:e2dd39bdc94e4b281dcbf3",
+        "android_client_info": {
+          "package_name": "com.blackbee.honeypot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716482970634-cfsis49t4ofbjdlsmfis1g13dl43rlpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbee.honeypot",
+            "certificate_hash": "c9960bff58c10441da1da546772b254237faabf2"
+          }
+        },
+        {
+          "client_id": "716482970634-81r2nbk7g57flmtq17g1kvt2a9h8hk37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgaFc12oLPPqbXxoHwDz7BAEjUdKMvw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716482970634-81r2nbk7g57flmtq17g1kvt2a9h8hk37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
